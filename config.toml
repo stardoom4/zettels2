@@ -11,6 +11,8 @@ assetDir = "themes/zettels/assets"
 
 DefaultContentLanguage = "es"
 
+theme = "zettels"
+
 [outputs]
   home = ["HTML", "JSON"]
 
